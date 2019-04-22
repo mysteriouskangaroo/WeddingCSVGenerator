@@ -67,7 +67,7 @@ class CsvIO
      @data = data
    end
    
-   def setColumns
+   def setColumns(columns)
      @columnNames = columns
    end
    
